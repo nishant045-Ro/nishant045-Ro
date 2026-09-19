@@ -1,6 +1,6 @@
-<div align="center">
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/7000_1000px.gif)
 
-<img src="https://avatars.githubusercontent.com/nishant045-Ro" width="140" height="140" style="border-radius: 50%" alt="Nishant Poudel" />
+<div align="center">
 
 # Hi 👋, I'm **Nishant Poudel**
 
