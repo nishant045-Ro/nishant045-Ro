@@ -15,8 +15,8 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name: Nishant Poudel
-location: Nepal
+Name: Nishant Poudel
+Location: Nepal
 studying: BCA (Bachelor in Computer Application)
 focus:
   - Web Development (PHP, Laravel, JavaScript)
